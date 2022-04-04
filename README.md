@@ -12,10 +12,10 @@ Total 45 API test cases.
 
 Testing results:
 » \test\specs\getVerification.js
-[chrome 100.0.4896.60 windows #0-0] 1. Get List organization repositories:
-[chrome 100.0.4896.60 windows #0-0]    ✓ 1.1. With response Status equal 200 for Happy Path
-[chrome 100.0.4896.60 windows #0-0]    ✓ 1.2. With content-type as application/json for Happy Path
-[chrome 100.0.4896.60 windows #0-0]    ✓ 1.3. With checking organization name
+1. Get List organization repositories:
+✓ 1.1. With response Status equal 200 for Happy Path
+✓ 1.2. With content-type as application/json for Happy Path
+✓ 1.3. With checking organization name
 [chrome 100.0.4896.60 windows #0-0]    ✓ 1.4. With verification repositiries name - hello-world-javascript-action
 [chrome 100.0.4896.60 windows #0-0]
 [chrome 100.0.4896.60 windows #0-0] 2. Get List repositories for the authenticated user:
